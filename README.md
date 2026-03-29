@@ -1,4 +1,4 @@
-# ai-video-dubbing-studio-
+# ai-video-dubbing-studio
 AI-powered video dubbing, voice changing, subtitles &amp; auto narration for iOS
 *Dub any video in 67 languages with 70+ AI voices. Free on iPhone & iPad.**
 
